@@ -1,0 +1,6 @@
+node_modules/
+dump/
+.env
+Dockerfile
+run.sh
+.idea
